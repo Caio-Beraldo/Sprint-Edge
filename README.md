@@ -21,6 +21,10 @@ Sensores (A0-A2):	Sensores que capturam a presença ou movimento em cada sala.
 
 Display OLED 128x64:	Tela usada para exibir o status local de ocupação de cada sala.
 
+Diagrama
+
+![Image](https://github.com/user-attachments/assets/e9fd0417-cd48-421a-964c-ae33ed3ba0f7)
+
 Sobre o diagrama
 
 Camada IoT: Sensores (A0, A1, A2) conectados ao ESP32 capturam os dados de ocupação de cada sala. O ESP32 lê os valores analógicos, classifica o nível de ocupação e exibe essa informação no display OLED.
