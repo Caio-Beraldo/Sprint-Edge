@@ -33,6 +33,10 @@ Camada Back-End: O ESP32 se comunica com a plataforma Taggio, enviando os dados 
 
 Camada Aplicação: A interface de visualização consiste em um dashboard web ou aplicativo mobile, onde os dados são visualizados de forma amigável por administradores ou usuários.
 
+Video:
+
+https://www.youtube.com/watch?v=-9Gdh5olPRc
+
 Integrantes:
 
 Caio Costa Beraldo - RM560775
