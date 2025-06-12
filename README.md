@@ -1,4 +1,4 @@
-# Sprint3-Edge
+# Sprint-Edge
 Descrição do Projeto
 
 Este projeto tem como objetivo desenvolver um sistema de monitoramento em tempo real da ocupação de diferentes salas, utilizando sensores conectados a um microcontrolador ESP32. Os dados são coletados localmente, exibidos em um display OLED e enviados para a nuvem via Wi-Fi para visualização remota por meio da plataforma Taggio.
