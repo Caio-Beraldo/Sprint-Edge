@@ -35,7 +35,7 @@ Camada Aplicação: A interface de visualização consiste em um dashboard web o
 
 Video:
 
-https://www.youtube.com/watch?v=-9Gdh5olPRc
+https://www.youtube.com/watch?v=x6Mg4j-46dU
 
 Integrantes:
 
